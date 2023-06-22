@@ -5,7 +5,7 @@
 
 - 💬 Me pergunte sobre **SQL**
 
-- 📫 Você me acha através do e-mail **ellenvdjsilva@gmail.com**
+- 📫 Você me acha através do e-mail **ellenvjsilva.dev@gmail.com**
 
 
 
