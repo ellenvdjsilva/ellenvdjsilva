@@ -1,10 +1,7 @@
 <h1 align="center">Olá, eu sou a Ellen Silva</h1>
-<p align="center">Sou apaixonada por dados</p>
+<p align="center">Sou desenvolvedora de software</p>
 
-- 🌱 Atualmente estou aprendendo **Python e Big Data**
-
-- 💬 Me pergunte sobre **SQL**
-
+- 🌱 Atualmente estou aprendendo **C# e Python**
 - 📫 Você me acha através do e-mail **ellenvjsilva.dev@gmail.com**
 
 
